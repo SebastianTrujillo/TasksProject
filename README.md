@@ -1,2 +1,2 @@
 # TasksProject
-(React/Node.js Project) - Aplicación web para la gestión de tareas
+(React/Node.js Project) - Web application for task management
